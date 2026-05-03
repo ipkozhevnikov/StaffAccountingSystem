@@ -1,0 +1,14 @@
+ivan                          kozhevnikov                   18                            180000                        programmer(0)                 
+
+maks                          subrosa                       25                            201                           none(3)                       
+
+alexander                     fedyaev                       18                            50000                         none(3)                       
+
+kira                          kim                           19                            75000                         none(3)                       
+
+andrey                        semushkin                     18                            10                            none(3)                       
+
+ekaterina                     alekhina                      19                            50000                         manager(1)                    
+
+arina                         stafutina                     20                            69000                         analyst(2)                    
+
